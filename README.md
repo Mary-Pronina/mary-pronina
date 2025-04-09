@@ -3,7 +3,7 @@
 
 ### 💡 About Me
 
-Hi, I'm Maria Pronina, a Data Analyst based in Etobicoke, Canada. With a strong background in business operations and retail, I started my career as an Administrative Assistant, where I honed my organizational skills and gained valuable experience in data management, particularly in reporting and process optimization.
+Hi, I'm Maria Pronina, a Data Analyst based in Toronto, Canada. With a strong background in business operations and retail, I started my career as an Administrative Assistant, where I honed my organizational skills and gained valuable experience in data management, particularly in reporting and process optimization.
 
 Over the years, I’ve worked with various CRM systems and e-commerce platforms, leveraging tools like Power BI and Excel to create meaningful reports, build dashboards, and uncover actionable business insights. My passion lies in transforming raw data into valuable information that drives informed decision-making.
 
